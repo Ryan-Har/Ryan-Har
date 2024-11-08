@@ -14,11 +14,11 @@ I thrive in environments where I can continuously learn, collaborate, and contri
 
 ## Skills & Technologies
 
-- **Languages**: Go, JavaScript
+- **Languages**: Go, Bash
 - **DevOps Tools**: Docker, Kubernetes, Helm, Terraform, GitHub Actions
-- **Cloud**: AWS, DigitalOcean
+- **Cloud**: AWS
 - **Databases**: PostgreSQL, SQL
-- **Web Technologies**: HTML5, CSS3, Bootstrap, WebSockets
+- **Web Technologies**: HTML5, CSS, Bootstrap, WebSockets
 - **Version Control**: Git, GitHub
 - **Other Tools**: Firebase, WebRTC, Nginx, CI/CD Pipelines
 
