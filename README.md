@@ -27,8 +27,8 @@ I thrive in environments where I can continuously learn, collaborate, and contri
 
 I’m currently open to **remote opportunities** in the **DevOps** or **SRE** space. If you’re looking for someone with a strong foundation in **IT support**, a passion for **automation**, and a deep appreciation for building reliable systems, feel free to reach out!
 
-- **LinkedIn**: [Ryan Harris](https://www.linkedin.com/in/ryan-harris)
-- **Email**: [contact@rharris.dev](mailto:contact@rharris.dev)
+- **LinkedIn**: [Ryan Harris](https://www.linkedin.com/in/ryanharrisit)
+- **Email**: [ryan@harrisit.co.uk](mailto:ryan@harrisit.co.uk)
 - **Portfolio**: [rharris.dev](https://rharris.dev)
 
 ---
